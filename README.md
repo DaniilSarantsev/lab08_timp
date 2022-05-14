@@ -6,11 +6,11 @@ docker run ubuntu echo 'hello from ubuntu'
 
 Сборка и настройка собственного образа и контейнера Docker:
 ----
-docker build -t test_app .
-docker images
-docker run test_app
-docker ps -a
-Информация о контейнера:
+1) docker build -t test_app .;
+2) docker images
+3) docker run test_app
+4) docker ps -a
+#### Информация о контейнера:
 docker container inspect
 ----
 
