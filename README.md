@@ -10,7 +10,7 @@ docker run ubuntu echo 'hello from ubuntu'
 2) docker images
 3) docker run test_app
 4) docker ps -a
-#### Информация о контейнера:
+#### Информация о контейнере:
 docker container inspect
 ----
 
